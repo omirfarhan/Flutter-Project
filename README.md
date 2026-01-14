@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Flutter-Project
-this is testable project 
-=======
-# myflutterproject
+
 
 A new Flutter project.
 
